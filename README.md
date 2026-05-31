@@ -1,20 +1,7 @@
-# Artist Portfolio Website
+# Artist Website
 
-This is a simple portfolio website for a painter/artist.  
+This is a simple website for a painter/artist.  
 The website presents the artist, their work, and useful contact information.
-
-## Live Demo
-
-You can view the website here:  
-https://projectwww.vercel.app
-
-## Features
-
-- Homepage for the artist
-- Image gallery
-- Information about the artist
-- Contact section
-- Responsive design
 
 ## Technologies Used
 
@@ -26,7 +13,6 @@ https://projectwww.vercel.app
 
 ## Project Structure
 
-```text
 projectwww/
 │
 ├── public/
@@ -40,3 +26,6 @@ projectwww/
 ├── package.json
 ├── server.js
 └── README.md# projectwww
+
+You can view the website here:  
+https://projectwww.vercel.app
